@@ -11,4 +11,5 @@
 轻松管理，高效生活！让【待办宝】成为您每日必备的得力助手，助您事半功倍，享受无压的生活与工作！
 
 ### 演示
-https://github.com/jqzhang/todo/blob/main/%E6%BC%94%E7%A4%BA.mp4
+https://github.com/jqzhang/todo/assets/2248184/629e3647-f2da-4878-9754-6f961cef56ba
+
