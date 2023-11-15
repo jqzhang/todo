@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  DailySecretary
+
+  Created by Vii on 2023/6/26.
+  
+*/
+
+"task" = "Task";
+"today" = "Today";
+"addTask" = "Add Task";
+"updateTask" = "Update Task";
+"viewTask" = "View Task";
+"title" = "Title";
+"enterTitle" = "Enter Title";
+"date" = "Date";
+"time" = "Time";
+"dateTime" = "Date Time";
+"description" = "Description";
+"enterDescription" = "Enter Description";
+"create" = "Create";
+"update" = "Update";
+"selectDateTime" = "Choose Reminder Date and Time";
+"addTaskSuccessful" = "Add Task Successful";
+"updateTaskSuccessful" = "Update Task Successful";
+"confirm" = "Confirm";
+"cancel" = "Cancel";
+"done" = "Done";
+"completed" = "Completed";
+"edit" = "Edit";
+"delete" = "Delete";
+"myTask" = "My Task";
+"pending" = "Pending";
+"canceled" = "Canceled";
+"privacyPolicy" = "Privacy Policy";
+"aboutUs" = "About Us";
+"noSchedulesTip" = "No schedules for today. Tap the plus button to create a new to-do.";
+"openNotificatinTip" = "Notification permissions are not enabled. You won't receive any reminders. Please go to the settings page to enable notification permissions.";
+"tip" = "Tip";
+"settings" = "Settings";
+"noTodoFound" = "No to-do found.";

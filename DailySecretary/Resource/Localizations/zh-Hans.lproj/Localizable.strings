@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  DailySecretary
+
+  Created by Vii on 2023/6/26.
+  
+*/
+
+"task" = "任务";
+"today" = "今天";
+"addTask" = "添加任务";
+"updateTask" = "更新任务";
+"viewTask" = "查看任务";
+"title" = "标题";
+"enterTitle" = "请输入标题";
+"date" = "日期";
+"time" = "时间";
+"dateTime" = "日期时间";
+"description" = "描述";
+"enterDescription" = "请输入描述";
+"create" = "创建";
+"update" = "更新";
+"selectDateTime" = "请选择提醒日期和时间";
+"addTaskSuccessful" = "添加待办成功";
+"updateTaskSuccessful" = "更新待办成功";
+"confirm" = "确认";
+"cancel" = "取消";
+"done" = "完成";
+"completed" = "已完成";
+"edit" = "编辑";
+"delete" = "删除";
+"myTask" = "我的任务";
+"pending" = "进行中";
+"canceled" = "已取消";
+"privacyPolicy" = "隐私政策";
+"aboutUs" = "关于我们";
+"noSchedulesTip" = "今天没有任何日程安排。点击加号按钮创建新的待办事项。";
+"openNotificatinTip" = "通知权限未开启，您将无法收到提醒，请前往设置页面开启通知权限。";
+"tip" = "提示";
+"settings" = "设置";
+"noTodoFound" = "没有查询到待办";
